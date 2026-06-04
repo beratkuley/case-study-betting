@@ -12,11 +12,11 @@ npm start
 
 ## Tech Stack
 
-**React** - (Webpack) UI framework and build toolchain
-**react-window** - Virtualizes the match list — only the visible rows are mounted in the DOM at any given time, keeping scroll performance smooth
-**styled-components** Component-scoped CSS-in-JS styling 
-**whatwg-fetch** Polyfills the Fetch API for legacy browsers that lack native support
-**core-js** Polyfills modern JavaScript built-ins for older browser environments
+| **React** - (Webpack) UI framework and build toolchain |
+| **react-window** - Virtualizes the match list — only the visible rows are mounted in the DOM at any given time, keeping scroll performance smooth |
+| **styled-components** Component-scoped CSS-in-JS styling |
+| **whatwg-fetch** Polyfills the Fetch API for legacy browsers that lack native support |
+| **core-js** Polyfills modern JavaScript built-ins for older browser environments |
 
 ## How It Works
  
